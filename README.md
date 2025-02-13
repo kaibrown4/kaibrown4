@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaibrown4
 - 👀 I’m interested in Among
 - 🌱 I’m currently learning the ways of lua
-- 💞️ I’m looking to collaborate with BRY402
+- 💞️ I’m looking to collaborate with
 - 📫 How to reach me ... no
 
 <!---
